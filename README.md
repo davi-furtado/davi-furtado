@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Davi
 
-<!--
-**davi-furtado/davi-furtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de informática
+🚀 Aprendendo desenvolvimento e banco de dados
+📍 Brasil
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-furtado&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-furtado&show_icons=true)
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/SEU_USERNAME/davi-furtado/blob/output/github-contribution-grid-snake.svg)
+
+## 🛠️ Tecnologias
+- Python
+- MySQL
+- HTML, CSS, JavaScript
+- React-Native
+
+![GitHub Streak](https://streak-stats.demolab.com?user=davi-furtado)
