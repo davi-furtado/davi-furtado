@@ -20,4 +20,6 @@
 - HTML, CSS, JavaScript
 - React-Native
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davi-furtado&theme=github-dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=davi-furtado)
