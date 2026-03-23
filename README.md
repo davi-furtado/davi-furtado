@@ -1,25 +1,18 @@
-# 👋 Fala aí, eu sou o Davi
+# 💻 Tech
 
-💻 Estudante de informática
-🚀 Aprendendo desenvolvimento e banco de dados
-📍 Brasil
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-furtado&layout=compact)
+# 📊 Stats
 
-## 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=davi-furtado&theme=xcode&hide_border=true)<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-furtado&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=davi-furtado&theme=dark&hide_border=true)<br/>
 
-## 🐍 Contribuições
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-furtado&theme=xcode&hide_border=true&layout=compact)
 
-![Snake animation](https://github.com/SEU_USERNAME/davi-furtado/blob/output/github-contribution-grid-snake.svg)
+# 🐍 Contribuições
 
-## 🛠️ Tecnologias
-- Python
-- MySQL
-- HTML, CSS, JavaScript
-- React-Native
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davi-furtado&theme=github-dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=davi-furtado)
+![](https://github-readme-activity-graph.vercel.app/graph?username=davi-furtado&theme=xcode)
