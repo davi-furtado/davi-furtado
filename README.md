@@ -1,3 +1,7 @@
+# Olá, eu sou Davi Furtado! 👋
+
+Sou um estudante focado em Python, análise de dados e desenvolvimento de APIs.
+
 # 💻 Tech
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,4 +19,13 @@
 
 # 🐍 Contribuições
 
+![](https://raw.githubusercontent.com/davi-furtado/davi-furtado/output/snake-dark.svg)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=davi-furtado&theme=xcode)
+
+![](https://raw.githubusercontent.com/davi-furtado/davi-furtado/output/snake.svg)
+
+# 📫 Contato
+
+- **GitHub:** [github.com/davi-furtado](https://github.com/davi-furtado)
+  <!-- - **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) -->
+  <!-- - **Email:** [seuemail@example.com](mailto:davi.furtado@example.com) -->
