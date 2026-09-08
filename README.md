@@ -1,96 +1,142 @@
-<h1 align="center">Olá, eu sou o Davi! 👋</h1>
+<h1 align="right">👋 Olá, eu sou o Davi!</h1>
 
-<p align="center">
-  Estudante de Informática • Desenvolvedor Backend com Python
-</p>
+Sou estudante do **2º ano do Curso Técnico em Informática Integrado ao Ensino Médio** e tenho interesse principalmente em desenvolvimento web, desenvolvimento backend e Python.
+
+Atualmente estou desenvolvendo meus conhecimentos através de projetos, estudos e experiências práticas.
+
+[English version here](en.md)
+
+## 🚀 Tecnologias e ferramentas
+
+### 💻 Programação e Desenvolvimento
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### 📊 Dados e formatos
+
+- Pandas
+- JSON
+- CSV
+- Markdown
+
+### Bancos de dados
+
+- MySQL
+- PostgreSQL
+- SQLite
+
+### 🛠️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+Além disso, utilizo ferramentas como:
+
+- Notion
+- Obsidian
 
 ---
 
-## 🚀 Sobre mim
+## 📚 Estudando atualmente
 
-- 🎓 Estudante de Técnico em Informática Integrado ao Ensino Médio [2/3]
-- 🐍 Desenvolvedor Python
-- 🌐 Interesse em desenvolvimento de APIs
-- 📚 Sempre aprendendo novas tecnologias
-- 🛠️ Criador da biblioteca **PyleTree**
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento web.
 
----
+### Front-end
 
-## 💻 Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React
 
-### Backend
+### Back-end
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" height="35"/>
-</p>
-
-**Principais conhecimentos**
-
+- Python
 - FastAPI
 - SQLAlchemy
-- Pandas
-- Jupyter Notebook
-- CSV
-- YAML
+- APIs REST
 
 ---
 
-### Frontend
+## 🎯 Quero aprender futuramente
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="35"/>
-</p>
+Estas são algumas tecnologias que pretendo estudar nos próximos anos:
 
----
-
-### Ferramentas
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35"/>
-</p>
+- Docker
+- Tailwind CSS
+- TypeScript
+- Next.js
+- Material UI
+- Astro
+- Docusaurus
+- React Native
+- Electron
 
 ---
 
-## 📖 Atualmente estudando
+# 🚀 Projetos
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="35"/>
-</p>
+### 🔤 LETRIMAX
 
----
+Jogo de palavras inspirado no Wordle. O objetivo é descobrir uma palavra
+secreta de cinco letras em até seis tentativas, com indicações visuais para
+letras corretas e posições incorretas. Desenvolvido em Python.
 
-## 🎯 Tenho interesse em aprender
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="35" />
-</p>
-
-- Docussaurus
+🔗 [Ver projeto](https://github.com/davi-furtado/LETRIMAX)
 
 ---
 
-## 🧰 Outros conhecimentos
+### 📊 Minicurso de Pandas
 
-- Microsoft Word ⭐⭐⭐⭐⭐
-- Microsoft PowerPoint ⭐⭐⭐⭐☆
-- Microsoft Excel ⭐⭐⭐☆☆
-- LaTeX
-- Markdown (Obsidian, Notion e GitHub)
+Material de um minicurso introdutório de análise e manipulação de dados com
+Python e Pandas. O conteúdo apresenta DataFrames, leitura e escrita de
+planilhas, seleção, limpeza, agrupamento e combinação de dados.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/minicurso-pandas)
 
 ---
 
-> "Sempre buscando aprender, desenvolver soluções e evoluir como programador."
+### 📖 Wiki Romântica
+
+Wiki educacional sobre as três gerações do Romantismo em verso no Brasil,
+criada como trabalho escolar com HTML, CSS e Bootstrap. O site está publicado
+no GitHub Pages.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/wiki-romantica)
+
+---
+
+### 🌳 Pyletree
+
+Biblioteca e ferramenta de linha de comando em Python para gerar árvores de
+diretórios. Oferece filtros, suporte a `.gitignore`, controle de profundidade,
+ordenação, tamanhos de arquivos e diretórios, saída JSON e uma API Python.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/pyletree)
+
+---
+
+### ⚛️ Algoritmo Físico
+
+Projeto educacional que transforma blocos físicos com marcadores ArUco em
+algoritmos executáveis. A aplicação reconhece os blocos em imagens, reconstrói
+o pseudocódigo, converte-o para Python e exibe a saída. Inclui uma API em
+FastAPI, uma interface web em React/Vite e uma interface desktop em
+CustomTkinter.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/algoritmo-fisico)
+
+## 📫 Contato
+
+Você pode entrar em contato comigo através do email `davifurtado.r@gmail.com` ou acompanhar meus projetos por aqui.
