@@ -4,6 +4,8 @@ Sou estudante do **2º ano do Curso Técnico em Informática Integrado ao Ensino
 
 Atualmente estou desenvolvendo meus conhecimentos através de projetos, estudos e experiências práticas.
 
+[Meu portifólio aqui](https://davi-furtado.github.io)
+
 [English version here](en.md)
 
 ## 🚀 Tecnologias e ferramentas
@@ -85,7 +87,7 @@ Estas são algumas tecnologias que pretendo estudar nos próximos anos:
 
 ---
 
-# 🚀 Projetos
+## 🚀 Projetos
 
 ### 🔤 LETRIMAX
 
@@ -95,7 +97,12 @@ letras corretas e posições incorretas. Desenvolvido em Python.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/LETRIMAX)
 
----
+### 💻 Portfólio
+
+Site pessoal responsivo desenvolvido com HTML, CSS e Bootstrap, com suporte a português e inglês e apresentação dos meus projetos e
+tecnologias.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/davi-furtado.github.io)
 
 ### 📊 Minicurso de Pandas
 
@@ -105,8 +112,6 @@ planilhas, seleção, limpeza, agrupamento e combinação de dados.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/minicurso-pandas)
 
----
-
 ### 📖 Wiki Romântica
 
 Wiki educacional sobre as três gerações do Romantismo em verso no Brasil,
@@ -115,8 +120,6 @@ no GitHub Pages.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/wiki-romantica)
 
----
-
 ### 🌳 Pyletree
 
 Biblioteca e ferramenta de linha de comando em Python para gerar árvores de
@@ -124,8 +127,6 @@ diretórios. Oferece filtros, suporte a `.gitignore`, controle de profundidade,
 ordenação, tamanhos de arquivos e diretórios, saída JSON e uma API Python.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/pyletree)
-
----
 
 ### ⚛️ Algoritmo Físico
 
@@ -136,6 +137,8 @@ FastAPI, uma interface web em React/Vite e uma interface desktop em
 CustomTkinter.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/algoritmo-fisico)
+
+---
 
 ## 📫 Contato
 

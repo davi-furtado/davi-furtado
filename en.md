@@ -4,7 +4,7 @@ I am a **second-year student in a technical high school program in Information T
 
 I am currently building my skills through projects, study, and hands-on experience.
 
-[Portuguese version](README.md)
+[My portfolio here](https://davi-furtado.github.io)
 
 ## 🚀 Technologies and tools
 
@@ -92,7 +92,13 @@ incorrect positions. Built with Python.
 
 🔗 [View project](https://github.com/davi-furtado/LETRIMAX)
 
----
+### 💻 Portfolio
+
+Responsive personal website built with HTML, CSS, and Bootstrap, featuring a
+dark theme, Portuguese and English support, and an overview of my projects and
+technologies.
+
+🔗 [View project](https://github.com/davi-furtado/davi-furtado.github.io)
 
 ### 📊 Pandas Mini-course
 
@@ -102,8 +108,6 @@ cleaning, grouping, and combining data.
 
 🔗 [View project](https://github.com/davi-furtado/minicurso-pandas)
 
----
-
 ### 📖 Wiki Romântica
 
 An educational wiki about the three generations of Brazilian Romantic poetry,
@@ -112,8 +116,6 @@ published on GitHub Pages.
 
 🔗 [View project](https://github.com/davi-furtado/wiki-romantica)
 
----
-
 ### 🌳 Pyletree
 
 A Python library and command-line tool for generating directory trees. It
@@ -121,8 +123,6 @@ offers filters, `.gitignore` support, depth control, sorting, file and
 directory sizes, JSON output, and a Python API.
 
 🔗 [View project](https://github.com/davi-furtado/pyletree)
-
----
 
 ### ⚛️ Algoritmo Físico
 
@@ -133,6 +133,8 @@ FastAPI backend, a React/Vite web interface, and a CustomTkinter desktop
 interface.
 
 🔗 [View project](https://github.com/davi-furtado/algoritmo-fisico)
+
+---
 
 ## 📫 Contact
 
