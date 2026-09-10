@@ -56,6 +56,7 @@ I am currently deepening my knowledge of web development.
 - JavaScript
 - Bootstrap
 - React
+- Jekyll
 
 ### Back end
 
@@ -76,6 +77,7 @@ These are some of the technologies I plan to study in the coming years:
 - Next.js
 - Material UI
 - Astro
+- shadcn/ui
 - Docusaurus
 - React Native
 - Electron

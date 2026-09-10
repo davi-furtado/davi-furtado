@@ -61,6 +61,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web.
 - JavaScript
 - Bootstrap
 - React
+- Jekyll
 
 ### Back-end
 
@@ -81,6 +82,7 @@ Estas são algumas tecnologias que pretendo estudar nos próximos anos:
 - Next.js
 - Material UI
 - Astro
+- shadcn/ui
 - Docusaurus
 - React Native
 - Electron
