@@ -131,8 +131,7 @@ directory sizes, JSON output, and a Python API.
 An educational project that turns physical blocks with ArUco markers into
 executable algorithms. It recognizes blocks in images, reconstructs the
 pseudocode, converts it to Python, and displays the output. It includes a
-FastAPI backend, a React/Vite web interface, and a CustomTkinter desktop
-interface.
+FastAPI backend and a React/Vite web interface.
 
 🔗 [View project](https://github.com/davi-furtado/algoritmo-fisico)
 

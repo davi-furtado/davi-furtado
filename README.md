@@ -135,8 +135,7 @@ ordenação, tamanhos de arquivos e diretórios, saída JSON e uma API Python.
 Projeto educacional que transforma blocos físicos com marcadores ArUco em
 algoritmos executáveis. A aplicação reconhece os blocos em imagens, reconstrói
 o pseudocódigo, converte-o para Python e exibe a saída. Inclui uma API em
-FastAPI, uma interface web em React/Vite e uma interface desktop em
-CustomTkinter.
+FastAPI e uma interface web em React/Vite.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/algoritmo-fisico)
 
