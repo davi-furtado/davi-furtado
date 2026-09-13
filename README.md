@@ -95,6 +95,7 @@ Estas são algumas tecnologias que pretendo estudar nos próximos anos:
 ### Plataformas e aplicações
 
 - Docker
+- Express
 - Docusaurus
 - Electron
 

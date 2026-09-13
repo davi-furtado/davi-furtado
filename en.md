@@ -90,6 +90,7 @@ These are some of the technologies I plan to study in the coming years:
 ### Platforms and applications
 
 - Docker
+- Express
 - Docusaurus
 - Electron
 
