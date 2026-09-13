@@ -71,15 +71,26 @@ I am currently deepening my knowledge of web development.
 
 These are some of the technologies I plan to study in the coming years:
 
-- Docker
+### Front end and styling
+
 - Tailwind CSS
 - TypeScript
-- Next.js
-- Material UI
 - Astro
 - shadcn/ui
-- Docusaurus
+
+### React ecosystem
+
+- React Router
+- Next.js
+- React Bootstrap
+- Material UI
 - React Native
+- React Navigation
+
+### Platforms and applications
+
+- Docker
+- Docusaurus
 - Electron
 
 ---
