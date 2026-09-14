@@ -147,6 +147,15 @@ FastAPI backend and a React/Vite web interface.
 
 🔗 [View project](https://github.com/davi-furtado/algoritmo-fisico)
 
+### 🏋️ PDFit
+
+A web application for creating workout plans and physical assessments as PDFs,
+developed for personal trainers. It allows users to build customized workouts,
+record measurements and images, and generate documents directly in the browser
+without a backend.
+
+🔗 [View project](https://github.com/davi-furtado/PDFit)
+
 ---
 
 ## 📫 Contact

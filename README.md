@@ -151,6 +151,15 @@ FastAPI e uma interface web em React/Vite.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/algoritmo-fisico)
 
+### 🏋️ PDFit
+
+Aplicação web para criação de fichas de treino e avaliações físicas em PDF,
+desenvolvida para personal trainers. Permite montar treinos personalizados,
+registrar medidas e imagens e gerar os documentos diretamente no navegador,
+sem backend.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/PDFit)
+
 ---
 
 ## 📫 Contato
