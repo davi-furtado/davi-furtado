@@ -160,6 +160,13 @@ sem backend.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/PDFit)
 
+### 🚀 Minicurso de FastAPI
+
+Material prático de introdução a APIs REST, HTTP, JSON e FastAPI, com a
+construção de uma API de tarefas.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/minicurso-fastapi)
+
 ---
 
 ## 📫 Contato

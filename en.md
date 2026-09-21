@@ -156,6 +156,13 @@ without a backend.
 
 🔗 [View project](https://github.com/davi-furtado/PDFit)
 
+### 🚀 FastAPI Mini-course
+
+Hands-on introductory material about REST APIs, HTTP, JSON, and FastAPI,
+building a task API.
+
+🔗 [View project](https://github.com/davi-furtado/minicurso-fastapi)
+
 ---
 
 ## 📫 Contact
