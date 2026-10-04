@@ -163,6 +163,14 @@ building a task API.
 
 🔗 [View project](https://github.com/davi-furtado/minicurso-fastapi)
 
+### 📊 Attendance Calculator
+
+A web calculator for analyzing school attendance based on absences, classes
+held, and total classes, with a customizable absence limit and results adapted
+to the provided data.
+
+🔗 [View project](https://github.com/davi-furtado/oroscopo-de-frequencia)
+
 ---
 
 ## 📫 Contact
