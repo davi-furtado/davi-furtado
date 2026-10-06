@@ -134,6 +134,8 @@ no GitHub Pages.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/wiki-romantica)
 
+🌐 [Acessar site](https://davi-furtado.github.io/wiki-romantica/)
+
 ### 🌳 Pyletree
 
 Biblioteca e ferramenta de linha de comando em Python para gerar árvores de
@@ -141,6 +143,8 @@ diretórios. Oferece filtros, suporte a `.gitignore`, controle de profundidade,
 ordenação, tamanhos de arquivos e diretórios, saída JSON e uma API Python.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/pyletree)
+
+📚 [Ver documentação](https://davi-furtado.github.io/pyletree/)
 
 ### ⚛️ Algoritmo Físico
 
@@ -160,6 +164,8 @@ sem backend.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/PDFit)
 
+🌐 [Acessar site](https://davi-furtado.github.io/PDFit/)
+
 ### 🚀 Minicurso de FastAPI
 
 Material prático de introdução a APIs REST, HTTP, JSON e FastAPI, com a
@@ -173,7 +179,9 @@ Calculadora web para analisar a frequência escolar a partir da quantidade de
 faltas, aulas dadas e aulas totais, com limite de faltas personalizável e
 resultados adaptados aos dados informados.
 
-🔗 [Ver projeto](https://github.com/davi-furtado/oroscopo-de-frequencia)
+🔗 [Ver projeto](https://github.com/davi-furtado/calculadora-frequencia)
+
+🌐 [Acessar site](https://davi-furtado.github.io/calculadora-frequencia/)
 
 ---
 

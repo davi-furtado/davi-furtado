@@ -130,6 +130,8 @@ published on GitHub Pages.
 
 🔗 [View project](https://github.com/davi-furtado/wiki-romantica)
 
+🌐 [Visit site](https://davi-furtado.github.io/wiki-romantica/)
+
 ### 🌳 Pyletree
 
 A Python library and command-line tool for generating directory trees. It
@@ -137,6 +139,8 @@ offers filters, `.gitignore` support, depth control, sorting, file and
 directory sizes, JSON output, and a Python API.
 
 🔗 [View project](https://github.com/davi-furtado/pyletree)
+
+📚 [View documentation](https://davi-furtado.github.io/pyletree/)
 
 ### ⚛️ Algoritmo Físico
 
@@ -156,6 +160,8 @@ without a backend.
 
 🔗 [View project](https://github.com/davi-furtado/PDFit)
 
+🌐 [Visit site](https://davi-furtado.github.io/PDFit/)
+
 ### 🚀 FastAPI Mini-course
 
 Hands-on introductory material about REST APIs, HTTP, JSON, and FastAPI,
@@ -169,7 +175,9 @@ A web calculator for analyzing school attendance based on absences, classes
 held, and total classes, with a customizable absence limit and results adapted
 to the provided data.
 
-🔗 [View project](https://github.com/davi-furtado/oroscopo-de-frequencia)
+🔗 [View project](https://github.com/davi-furtado/calculadora-frequencia)
+
+🌐 [Visit site](https://davi-furtado.github.io/calculadora-frequencia/)
 
 ---
 
