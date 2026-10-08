@@ -173,15 +173,15 @@ construção de uma API de tarefas.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/minicurso-fastapi)
 
-### 📊 Calculadora de Frequência
+### 📊 Faltômetro
 
 Calculadora web para analisar a frequência escolar a partir da quantidade de
 faltas, aulas dadas e aulas totais, com limite de faltas personalizável e
 resultados adaptados aos dados informados.
 
-🔗 [Ver projeto](https://github.com/davi-furtado/calculadora-frequencia)
+🔗 [Ver projeto](https://github.com/davi-furtado/faltometro)
 
-🌐 [Acessar site](https://davi-furtado.github.io/calculadora-frequencia/)
+🌐 [Acessar site](https://davi-furtado.github.io/faltometro/)
 
 ---
 

@@ -122,7 +122,7 @@ cleaning, grouping, and combining data.
 
 🔗 [View project](https://github.com/davi-furtado/minicurso-pandas)
 
-### 📖 Wiki Romântica
+### 📖 Romantic Wiki
 
 An educational wiki about the three generations of Brazilian Romantic poetry,
 created as a school project with HTML, CSS, and Bootstrap. The site is
@@ -142,7 +142,7 @@ directory sizes, JSON output, and a Python API.
 
 📚 [View documentation](https://davi-furtado.github.io/pyletree/)
 
-### ⚛️ Algoritmo Físico
+### ⚛️ Physical Algorithm
 
 An educational project that turns physical blocks with ArUco markers into
 executable algorithms. It recognizes blocks in images, reconstructs the
@@ -175,9 +175,9 @@ A web calculator for analyzing school attendance based on absences, classes
 held, and total classes, with a customizable absence limit and results adapted
 to the provided data.
 
-🔗 [View project](https://github.com/davi-furtado/calculadora-frequencia)
+🔗 [View project](https://github.com/davi-furtado/faltometro)
 
-🌐 [Visit site](https://davi-furtado.github.io/calculadora-frequencia/)
+🌐 [Visit site](https://davi-furtado.github.io/faltometro/)
 
 ---
 
