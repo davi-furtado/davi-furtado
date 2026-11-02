@@ -183,6 +183,22 @@ resultados adaptados aos dados informados.
 
 🌐 [Acessar site](https://davi-furtado.github.io/faltometro/)
 
+### 📥 YouTube Downloader
+
+Script interativo em Python para baixar vídeos individuais ou playlists do
+YouTube, com seleção de qualidade, suporte a arquivos de links e organização
+automática dos downloads.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/youtube-downloader)
+
+### 📚 PPR Courses Downloader
+
+Ferramenta para baixar, organizar e pesquisar materiais dos cursos do Padre
+Paulo Ricardo, com scraper em Selenium, armazenamento local e busca
+full-text em um banco SQLite.
+
+🔗 [Ver projeto](https://github.com/davi-furtado/ppr-courses-downloader)
+
 ---
 
 ## 📫 Contato
