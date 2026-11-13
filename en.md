@@ -181,9 +181,10 @@ to the provided data.
 
 ### 📥 YouTube Downloader
 
-Interactive Python script for downloading individual YouTube videos or
-playlists, with quality selection, link-file support, and automatic download
-organization.
+Interactive Python script built on yt-dlp for downloading YouTube videos (MP4)
+or audio (M4A with cover art), individually or as playlists, reading links from
+a file or the terminal, with organized folders and up to three concurrent
+downloads.
 
 🔗 [View project](https://github.com/davi-furtado/youtube-downloader)
 
