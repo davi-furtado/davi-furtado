@@ -185,9 +185,11 @@ resultados adaptados aos dados informados.
 
 ### 📥 YouTube Downloader
 
-Script interativo em Python com yt-dlp para baixar vídeos (MP4) ou áudios
-(M4A com capa) do YouTube, individuais ou em playlists, com leitura de links
-por arquivo ou terminal, pastas organizadas e até três downloads simultâneos.
+Aplicativo desktop em Python com interface gráfica e yt-dlp para baixar vídeos
+(MP4) ou áudios (M4A com capa) do YouTube, individuais ou em playlists, com
+links colados ou importados de arquivo, pastas organizadas, até três downloads
+simultâneos, cookies para conteúdo autenticado e executável único para Windows
+com FFmpeg.
 
 🔗 [Ver projeto](https://github.com/davi-furtado/youtube-downloader)
 

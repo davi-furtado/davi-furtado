@@ -181,10 +181,11 @@ to the provided data.
 
 ### 📥 YouTube Downloader
 
-Interactive Python script built on yt-dlp for downloading YouTube videos (MP4)
-or audio (M4A with cover art), individually or as playlists, reading links from
-a file or the terminal, with organized folders and up to three concurrent
-downloads.
+Python desktop app with a graphical interface built on yt-dlp for downloading
+YouTube videos (MP4) or audio (M4A with cover art), individually or as
+playlists, with pasted or file-imported links, organized folders, up to three
+concurrent downloads, cookie support for authenticated content, and a single
+Windows executable bundling FFmpeg.
 
 🔗 [View project](https://github.com/davi-furtado/youtube-downloader)
 
